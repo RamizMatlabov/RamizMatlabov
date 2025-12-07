@@ -39,14 +39,12 @@
 
 ## 🔥 Прогресс навыков
 
-<p>
-  Python: <img src="https://i.gifer.com/animated-progress/python.gif" alt="Python" width="200"/>
-  JavaScript: <img src="https://i.gifer.com/animated-progress/javascript.gif" alt="JavaScript" width="200"/>
-  React: <img src="https://i.gifer.com/animated-progress/react.gif" alt="React" width="200"/>
-  Next.js: <img src="https://i.gifer.com/animated-progress/nextjs.gif" alt="Next.js" width="200"/>
-  Node.js: <img src="https://i.gifer.com/animated-progress/nodejs.gif" alt="Node.js" width="200"/>
-  Django: <img src="https://i.gifer.com/animated-progress/django.gif" alt="Django" width="200"/>
-</p>
+Python ![90%](https://img.shields.io/badge/Python-90%25-brightgreen)
+JavaScript ![85%](https://img.shields.io/badge/JavaScript-85%25-yellow)
+React ![80%](https://img.shields.io/badge/React-80%25-blue)
+Next.js ![75%](https://img.shields.io/badge/Next.js-75%25-black)
+Node.js ![70%](https://img.shields.io/badge/Node.js-70%25-green)
+Django ![65%](https://img.shields.io/badge/Django-65%25-brightgreen)
 
 ---
 
