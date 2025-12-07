@@ -37,14 +37,15 @@
 - 🌐 **Топ технологии:** Python, JavaScript, React, Next.js, Node.js, Django  
 - 🏆 **Open Source:** участие в 2 внешних проектах  
 
-### 🔥 Прогресс навыков
+## 🔥 Прогресс навыков
+
 <p>
-  Python:  <progress value="90" max="100"></progress><br>
-  JavaScript:  <progress value="85" max="100"></progress><br>
-  React:  <progress value="80" max="100"></progress><br>
-  Next.js:  <progress value="75" max="100"></progress><br>
-  Node.js:  <progress value="70" max="100"></progress><br>
-  Django:  <progress value="65" max="100"></progress>
+Python: <img src="https://i.gifer.com/animated-progress/python.gif" alt="Python" width="200"/>
+JavaScript: <img src="https://i.gifer.com/animated-progress/javascript.gif" alt="JavaScript" width="200"/>
+React: <img src="https://i.gifer.com/animated-progress/react.gif" alt="React" width="200"/>
+Next.js: <img src="https://i.gifer.com/animated-progress/nextjs.gif" alt="Next.js" width="200"/>
+Node.js: <img src="https://i.gifer.com/animated-progress/nodejs.gif" alt="Node.js" width="200"/>
+Django: <img src="https://i.gifer.com/animated-progress/django.gif" alt="Django" width="200"/>
 </p>
 
 ---
