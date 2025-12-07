@@ -30,9 +30,22 @@
 
 ---
 
-## 📈 Моя активность
+## 📊 Моя активность и достижения
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=RamizMatlabov&show_icons=true&theme=radical)
+- 💻 **Репозитории:** 12 публичных проектов  
+- 📝 **Коммиты:** более 350 коммитов  
+- 🌐 **Топ технологии:** Python, JavaScript, React, Next.js, Node.js, Django  
+- 🏆 **Open Source:** участие в 2 внешних проектах  
+
+### 🔥 Прогресс навыков
+<p>
+  Python:  <progress value="90" max="100"></progress><br>
+  JavaScript:  <progress value="85" max="100"></progress><br>
+  React:  <progress value="80" max="100"></progress><br>
+  Next.js:  <progress value="75" max="100"></progress><br>
+  Node.js:  <progress value="70" max="100"></progress><br>
+  Django:  <progress value="65" max="100"></progress>
+</p>
 
 ---
 
