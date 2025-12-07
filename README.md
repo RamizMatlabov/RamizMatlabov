@@ -6,15 +6,15 @@
 
 ## 🛠 Мои навыки
 
-![Python](https://img.shields.io/badge/Python-3.10-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
-![React](https://img.shields.io/badge/React-18.0-blue)
-![Next.js](https://img.shields.io/badge/Next.js-13-black)
-![Node.js](https://img.shields.io/badge/Node.js-18-green)
-![Django](https://img.shields.io/badge/Django-4.2-brightgreen)
+![Python](https://img.shields.io/badge/Python-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+![React](https://img.shields.io/badge/React-blue)
+![Next.js](https://img.shields.io/badge/Next.js-black)
+![Node.js](https://img.shields.io/badge/Node.js-green)
+![Django](https://img.shields.io/badge/Django-brightgreen)
 ![HTML](https://img.shields.io/badge/HTML-orange)
 ![CSS](https://img.shields.io/badge/CSS-blueviolet)
-![Git](https://img.shields.io/badge/Git-2.40-orange)
+![Git](https://img.shields.io/badge/Git-orange)
 
 ---
 
