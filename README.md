@@ -40,12 +40,12 @@
 ## 🔥 Прогресс навыков
 
 <p>
-Python: <img src="https://i.gifer.com/animated-progress/python.gif" alt="Python" width="200"/>
-JavaScript: <img src="https://i.gifer.com/animated-progress/javascript.gif" alt="JavaScript" width="200"/>
-React: <img src="https://i.gifer.com/animated-progress/react.gif" alt="React" width="200"/>
-Next.js: <img src="https://i.gifer.com/animated-progress/nextjs.gif" alt="Next.js" width="200"/>
-Node.js: <img src="https://i.gifer.com/animated-progress/nodejs.gif" alt="Node.js" width="200"/>
-Django: <img src="https://i.gifer.com/animated-progress/django.gif" alt="Django" width="200"/>
+  Python: <img src="https://i.gifer.com/animated-progress/python.gif" alt="Python" width="200"/>
+  JavaScript: <img src="https://i.gifer.com/animated-progress/javascript.gif" alt="JavaScript" width="200"/>
+  React: <img src="https://i.gifer.com/animated-progress/react.gif" alt="React" width="200"/>
+  Next.js: <img src="https://i.gifer.com/animated-progress/nextjs.gif" alt="Next.js" width="200"/>
+  Node.js: <img src="https://i.gifer.com/animated-progress/nodejs.gif" alt="Node.js" width="200"/>
+  Django: <img src="https://i.gifer.com/animated-progress/django.gif" alt="Django" width="200"/>
 </p>
 
 ---
