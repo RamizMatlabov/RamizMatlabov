@@ -10,8 +10,8 @@
 
 ### 🚀 About Me
 
-I am a developer passionate about building impactful projects using Python, JavaScript, React, and Next.js. I enjoy learning new technologies and creating applications that help people. I am currently expanding my knowledge of web development, algorithms, and data structures, and I enjoy solving challenging problems.  
-I work on projects of various scales, ranging from small scripts and personal productivity tools to full-stack web applications with interactive user interfaces and databases. My projects demonstrate not only proficiency in programming languages but also experience with Git, writing clean and maintainable code, organizing project structure, and creating clear documentation.
+I am a developer passionate about building impactful projects with Python, JavaScript, React, and Next.js. I enjoy learning new technologies, solving challenging problems, and creating **websites and applications** that help people. I have experience developing full-stack websites, web applications, productivity tools, and scripts, with a strong focus on clean code, Git, project organization, and clear documentation.
+
 
 🔭 &nbsp;I'm currently working on **Building modern full-stack applications with Python, React, Next.js, FastAPI, and PostgreSQL.**  
 🌱 &nbsp;I'm currently learning **System design, distributed systems, Rust, Docker, and cloud technologies.**  
